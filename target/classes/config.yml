@@ -1,0 +1,3 @@
+offsets:
+  back: 0.45   # how far behind the boat the banner sits
+  y: -1.0      # how far down the banner sits (make more negative if too high)
